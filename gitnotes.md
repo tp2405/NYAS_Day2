@@ -30,6 +30,13 @@ $$f(x) = x^2$$
 ---
 
 ### Tracking Changes
+* After making changes, need to `git add` and then `git commit` each time.
+
+
+
+
+
+
 
 
 
